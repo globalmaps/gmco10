@@ -1,7 +1,4 @@
-# gmco10
-Global Map Colombia 1.0 (in preparation)
-
-# gm#{country}#{version}: Global Map #{country} #{version}
+# gmco10: Global Map Colombia 1.0
 ## non-commercial use
 ![attribution](https://globalmaps.github.io/globalmaps/attribution.png)
 ## commercial use
